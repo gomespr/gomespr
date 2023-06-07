@@ -12,7 +12,7 @@
 
 ### Languages & Tools 🛠
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask&logoColor=white)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 
